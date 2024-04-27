@@ -1,0 +1,38 @@
+body {
+  background-color: #8fd0ff;
+}
+
+.pageContainer {
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.imageContainer {
+  float: left;
+  width: 620px;
+}
+
+.textContainer {
+  float: left;
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 64px;
+  color: #00398a;
+}
+
+p, li {
+  font-family: 'Lato', sans-serif;
+  font-size: 22px;
+  color: #000c57;
+}
